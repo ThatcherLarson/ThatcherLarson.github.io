@@ -21,11 +21,11 @@
   # quote: >
   #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description:
-    Parses through a JSON array to gather interesting statistics like number of likes, comments, etc. across ten different users. *Java*
+    Parses through a JSON array to gather interesting statistics like number of likes, comments, etc. across ten different users.  *Java*
 - layout: top-middle
   name:  Food Query Tool
   # link: https://github.com/
   github: ThatcherLarson/foodquery-mealanalysis-project
   # quote: >
   #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  description: Meal planner that a user can load in a list of foods to add to a meal list and visualize data such as calories, fat, protein, etc. (Group Project) *Java, JavaFX*
+  description: Meal planner that a user can load in a list of foods to add to a meal list and visualize data such as calories, fat, protein, etc. (Group Project)  *Java, JavaFX*
