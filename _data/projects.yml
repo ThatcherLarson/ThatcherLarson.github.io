@@ -7,10 +7,22 @@
   description: | # this will include new lines to allow paragraphs
     Created an android application with a small team that allows users to use a virtual scorecard, find and play nearby courses, keep track of their discs, measure throws, and more. (Group Project)  Android Studio (Java), Firebase DB
   name: GroupMe Bot
+  # link: https://github.com/
+  # github: ThatcherLarson/DiscGolfApp
+  # quote: >
+  #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description:
     Actively listens to messages sent in a GroupMe group chat and parses each message while looking for certain commands such as /joke and /quote, which trigger their respective APIs and the bot sends a parsed response back to the group.  Hosted on the cloud with Heroku.  Python
   name: GroupMe Chat Analysis
+  # link: https://github.com/
+  # github: ThatcherLarson/DiscGolfApp
+  # quote: >
+  #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description:
     Parses through a JSON array to gather interesting statistics like number of likes, comments, etc. across ten different users. Java
   name:  Food Query Tool
+  # link: https://github.com/
+  # github: ThatcherLarson/DiscGolfApp
+  # quote: >
+  #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: Meal planner that a user can load in a list of foods to add to a meal list and visualize data such as calories, fat, protein, etc. (Group Project) Java, JavaFX

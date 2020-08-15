@@ -39,10 +39,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 # More Section
 # more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Outside of software engineering, some of my our hobbies are:
-   - Disc Golf
-   - Gaming
+# more_content: | # this will include new lines to allow paragraphs
 
 # Footer
 footer_show_references: true
