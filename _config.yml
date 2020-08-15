@@ -24,9 +24,11 @@ linkedin_username: thatcherlarson
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am Thatcher and I am currently a computer science student at UW-Madison.
+  I am Thatcher and I a senior computer science student at UW-Madison scheduled to graduate in December 2020.
+  
+  I am currently seeking a junior level software engineering position for 2021.
 
-  I am most skilled in: <mark>Java</mark>
+  
 
 # Projects Section
 # projects_title: Projects
