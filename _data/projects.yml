@@ -25,7 +25,7 @@
 - layout: top-middle
   name:  Food Query Tool
   # link: https://github.com/
-  # github: ThatcherLarson/DiscGolfApp
+  github: ThatcherLarson/foodquery-mealanalysis-project
   # quote: >
   #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: Meal planner that a user can load in a list of foods to add to a meal list and visualize data such as calories, fat, protein, etc. (Group Project) Java, JavaFX
