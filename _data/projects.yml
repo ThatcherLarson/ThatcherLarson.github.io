@@ -15,13 +15,21 @@
   description:
     Actively listens to messages sent in a GroupMe group chat and parses each message while looking for certain commands such as /joke and /quote, which trigger their respective APIs and the bot sends a parsed response back to the group.  Hosted on the cloud with Heroku.  *Python*
 - layout: top-middle
-  name: GroupMe Chat Analysis
+  name: Course Scheduler
   # link: https://github.com/
-  # github: ThatcherLarson/DiscGolfApp
+  github: ThatcherLarson/coursescheduling
   # quote: >
   #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description:
-    Parses through a JSON array to gather interesting statistics like number of likes, comments, etc. across ten different users.  *Java*
+    A React application that allows users to search and filter courses, add courses to cart, and see recommended courses based on completed coursework.  *React*
+- layout: top-middle
+  name: Exercise Planner App
+  # link: https://github.com/
+  github: ThatcherLarson/fitnesstrackerapp
+  # quote: >
+  #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description:
+    A React Native application that allows users to schedule exercises, view their exercises for the current day, and plan towards goals.  *React Native*
 - layout: top-middle
   name:  Food Query Tool
   # link: https://github.com/
