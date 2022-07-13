@@ -1,10 +1,17 @@
 - layout: left
+  company: Target
+  link: target.com
+  job_title: Software Engineer
+  dates: March 2022 - Current
+  description: | # this will include new lines to allow paragraphs
+    Engineer on the RFID team supporting use of RFID tech in stores.
+- layout: left
   company: Fastenal
   link: fastenal.com
   job_title: Software Developer
-  dates: Jan 2021 - Current
+  dates: Jan 2021 - March 2022
   description: | # this will include new lines to allow paragraphs
-    Currently a developer on the data integration team with a large focus on writing Kafka Streams in Java.
+    Developer on the data integration team with a large focus on writing Kafka Streams in Java.
 - layout: left
   company: Clientek
   link: clientek.com
